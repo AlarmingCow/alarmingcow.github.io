@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Colin Cross
+tagline:          'Chicago Software Developer'
+description:      'Software Developer in Chicago. Currently leading application scaling efforts at at <a href="https://twitter.com/Backstop">Backstop</a>.'
+url:              http://alarmingcow.github.io
+baseurl:          /
+
+author:
+  name:           'Colin Cross'
+  url:            https://twitter.com/AlarmingCow
+
+paginate:         5
+
+# Custom vars
